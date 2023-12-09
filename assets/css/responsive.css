@@ -1,0 +1,278 @@
+@media screen and (max-width: 992px) {
+    .lorem {
+        width: 370px;
+    }
+    .arrow-left{
+        left: 160px;
+    }
+    .arrow-right{
+        right: 160px;
+    }
+    .team-people {
+        width: 740px;
+    }
+}
+@media screen and (max-width: 890px) {
+    .arrow-left {
+        left: 120px;
+    }
+
+    .arrow-right {
+        right: 120px;
+    }
+    .team-people {
+        width: 740px;
+    }
+}
+@media screen and (max-width: 768px) {
+    header {
+        height: 400px;
+    }
+
+    .header-logo {
+        left: 35%;
+    }
+
+    .banner-title h1 {
+        font-size: 40px;
+        max-width: 800px;
+        margin: 100px auto 0;
+    }
+
+    .banner-btn button {
+        width: 180px;
+        height: 40px;
+        font-size: 18px;
+    }
+
+    .scroll {
+        margin: 80px auto;
+        font-size: 12px;
+        width: 100px;
+        height: 20px;
+        padding-top: 1px;
+    }
+
+    .section-heading h2 {
+        font-size: 18px;
+    }
+
+    .section-heading p {
+        font-size: 14px;
+    }
+
+    .lorem {
+        width: 90%;
+        margin-bottom: -60px;
+    }
+
+    .lorem-logo {
+        width: 120px;
+        height: 120px;
+    }
+    .photo-works-buttons{
+        margin: 20px 0 25px;
+    }
+.testimonials-quotes{
+    margin-top: 20px;
+    width: 80%;
+    font-size: 16px;
+}
+    .arrow-left{
+        left: 60px;
+    }
+    .arrow-right{
+        right: 60px;
+    }
+    .all-clients{
+        font-size: 14px;
+        width: 150px;
+        height: 30px;
+        display: flex;
+        align-items: center;
+    }
+    .team-people{
+        width: 615px;
+        gap: 30px;
+    }
+    .footer-wrap h2{
+        font-size: 16px;
+    }
+    .section-description{
+        font-size: 14px;
+    }
+    .recent-posts-link{
+        font-size: 12px;
+        padding: 2px 4px;
+
+    }
+}
+@media screen and (max-width: 650px){
+    .testimonials-quotes{
+        font-size: 12px;
+    }
+    .arrow-left{
+        left: 40px;
+    }
+    .arrow-right{
+        right: 40px;
+    }
+    .team-people{
+        width: 580px;
+        gap: 30px;
+    }
+}
+@media screen and (max-width: 550px){
+    .team-people{
+        width: 490px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    header {
+        height: 300px;
+    }
+
+    .input {
+        width: 100px;
+    }
+
+    .banner-title h1 {
+        font-size: 28px;
+        margin: 60px auto 0;
+    }
+
+    .banner-btn button {
+        width: 120px;
+        height: 30px;
+        font-size: 12px;
+    }
+
+    .scroll {
+        margin: 50px auto;
+        font-size: 12px;
+    }
+
+    .lorem-logo {
+        width: 100px;
+        height: 100px;
+    }
+
+    .lorem h3 {
+        font-size: 20px;
+    }
+
+    .lorem p {
+        font-size: 14px;
+    }
+    .photo-works-buttons a {
+        font-size: 12px;
+        padding: 12px;
+    }
+    .testimonials-quotes{
+        font-size: 12px;
+    }
+    .arrow-left{
+        left: 20px;
+    }
+    .arrow-right{
+        right: 20px;
+    }
+    .all-clients{
+        font-size: 12px;
+        width: 130px;
+        height: 24px;
+        display: flex;
+        align-items: center;
+        margin-top: 40px;
+    }
+.team-people{
+    width: 320px;
+}
+}
+@media screen and (max-width: 450px){
+    .arrow-left,
+    .arrow-right{
+        margin-top: 150px;
+    }
+}
+@media screen and (max-width: 350px) {
+    .section-heading h2 {
+        font-size: 16px;
+    }
+
+    .section-heading p {
+        font-size: 12px;
+    }
+
+    .header-logo {
+        left: 30%;
+    }
+
+    .input {
+        width: 80px;
+        height: 28px;
+        font-size: 12px;
+    }
+
+    .banner-title h1 {
+        font-size: 24px;
+    }
+
+    .banner-btn button {
+        width: 100px;
+        height: 25px;
+        font-size: 10px;
+        display: flex;
+        align-items: center;
+    }
+
+    .scroll {
+        margin: 50px auto;
+        font-size: 12px;
+    }
+
+    .lorem {
+        width: 100%;
+    }
+
+    .lorem-logo {
+        width: 80px;
+        height: 80px;
+    }
+
+    .lorem h3 {
+        font-size: 16px;
+    }
+
+    .lorem p {
+        font-size: 12px;
+    }
+
+    .learn_more {
+        font-size: 12px;
+        width: 80px;
+        height: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .photo-works-buttons {
+        margin: 16px 0;
+    }
+
+    .photo-works-buttons a {
+        font-size: 10px;
+        padding: 10px;
+    }
+    .team-people{
+        width: 270px;
+    }
+}
+@media screen and (max-width: 305px){
+    .recent-posts-link {
+        margin-top: -10px;
+    }
+
+}
